@@ -75,12 +75,13 @@
     position[4].y = 350;
     position[5].x = 500;
     position[5].y = 350;
-    position[6].x = 668;
-    position[6].y = 690;
-    position[7].x = 1180;
-    position[7].y = 690;
+    position[6].x = 250;
+    position[6].y = 225;
+    position[7].x = 500;
+    position[7].y = 225;
     cont.x = 450;
     cont.y = 380;
+
 
     for (i = 0; i < 4; i++)
     {
